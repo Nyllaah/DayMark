@@ -1,0 +1,1 @@
+{"expo":{"name":"Daymark","slug":"daymark","scheme":"daymark","userInterfaceStyle":"automatic","plugins":["expo-router"],"web":{"output":"static"},"ios":{"bundleIdentifier":"com.nyllaah.daymark"},"android":{"package":"com.nyllaah.daymark"}}}
